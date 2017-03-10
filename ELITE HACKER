@@ -1,0 +1,7 @@
+echo off
+color 1a
+echo HAKKER PRO
+pause
+:ebin
+ping nsa.gov
+goto ebin
